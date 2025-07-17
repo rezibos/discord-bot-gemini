@@ -1,1 +1,1 @@
-### discord-bot-gemini
+# discord-bot-gemini
